@@ -41,3 +41,19 @@ li a {
   text-align: left;
   border-radius: .3em;
 }
+
+a:hover {
+  padding: .6em;
+  color: #fff;
+  text-decoration: none;
+  background-color: #f33;
+}
+
+header {
+  background-color: #79756f;
+  border: 3px solid #595652;
+}
+
+nav li {
+  color: #fff;
+}
