@@ -20,3 +20,12 @@ h1 {
   color: #fff;
   margin: .3em;
 }
+
+ul li {
+  font-family: Bevan
+}
+
+li a {
+  color: #fff;
+  text-decoration: none;
+}
