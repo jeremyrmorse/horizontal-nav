@@ -5,3 +5,18 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  background-color: #dbd6cf;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+  font-size: 1rem;
+}
+
+h1 {
+  font-family: Bevan
+  text-align: center;
+  color: #fff;
+  margin: .3em;
+}
