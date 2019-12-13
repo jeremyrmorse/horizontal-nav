@@ -15,14 +15,14 @@ body {
 }
 
 h1 {
-  font-family: Bevan;
+  font-family: Bevan, sans-serif;
   text-align: center;
   color: #fff;
   margin: .3em;
 }
 
 ul li {
-  font-family: Bevan;
+  font-family: sans-serif;
 }
 
 li a {
